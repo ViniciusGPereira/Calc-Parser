@@ -33,3 +33,6 @@ No desenvolvidomento foram utilizadas as bibliotecas :
   - SYS
   
 O Algoritmo possui alguns comentários que auxiliam no seu entendimento
+
+Esse algoritmo também está implementado no AzureNotebook
+  - https://calcparser-viniciuspereira.notebooks.azure.com/j/notebooks/calcparser.ipynb
